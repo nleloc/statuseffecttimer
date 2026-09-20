@@ -2,7 +2,7 @@
   "client": [
     "StatusEffectTimerMixin"
   ],
-  "compatibilityLevel": "JAVA_17",
+  "compatibilityLevel": "JAVA_25",
   "injectors": {
     "defaultRequire": 1
   },
