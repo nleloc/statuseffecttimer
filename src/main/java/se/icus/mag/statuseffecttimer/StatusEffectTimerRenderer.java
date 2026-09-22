@@ -39,7 +39,7 @@ public class StatusEffectTimerRenderer {
         } else if (seconds >= 60) {
             return seconds / 60 + "m";
         } else {
-            return String.valueOf(seconds);
+            return seconds + "s";
         }
     }
 }
